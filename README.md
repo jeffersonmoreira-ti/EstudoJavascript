@@ -1,1 +1,1 @@
-# EstudoJavascript
+# Simples estudo do JavaScript.
